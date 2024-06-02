@@ -1,0 +1,6 @@
+10:36:03,192 DEBUG Ram:50 - 1.Open chrome browser
+10:36:03,198 DEBUG Ram:53 - 2.Enter user name
+10:36:03,198 DEBUG Ram:56 - 3.Enter pwd
+10:36:03,199 DEBUG Ram:59 - 4.click login button
+10:36:03,199 DEBUG Ram:62 - 5.Verify Home page is displayed
+10:36:03,199 DEBUG Ram:64 - 6.new log msgs 

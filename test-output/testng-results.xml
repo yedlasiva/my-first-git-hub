@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[1.Open chrome browser]]>
+    </line>
+    <line>
+      <![CDATA[2.Enter user name]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-04-02T10:36:02 IST" name="Default suite" finished-at="2024-04-02T10:36:03 IST" duration-ms="362">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T10:36:02 IST" name="Default test" finished-at="2024-04-02T10:36:03 IST" duration-ms="362">
+      <class name="Log4jBasics.Log4jBasics1">
+        <test-method signature="LoginTC1()[pri:0, instance:Log4jBasics.Log4jBasics1@1ca3b418]" started-at="2024-04-02T10:36:02 IST" name="LoginTC1" finished-at="2024-04-02T10:36:03 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[1.Open chrome browser]]>
+            </line>
+            <line>
+              <![CDATA[2.Enter user name]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginTC1 -->
+      </class> <!-- Log4jBasics.Log4jBasics1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
